@@ -16,9 +16,9 @@
 
 ## マップ
 ### 行きたいパビリオン
-![行きたいパビリオン](./pavilion_want_to_go.png)
+![行きたいパビリオン](./images/pavilion_want_to_go.png)
 ### 行きたいレストラン
-![行きたいパビリオン](./restaurants_want_to_go.png)
+![行きたいパビリオン](./images/restaurants_want_to_go.png)
 
 ## 行動計画
 |開始|終了|場所|
